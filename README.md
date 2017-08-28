@@ -6,6 +6,6 @@ Aplicações Distribuidas Exercícios
 # Ocimar Pereira de Souza
 # Rita de Cassia Santos
 # Iago Augusto Mileo
-# Rodriogo Wellington Andrade
+# Rodrigo Wellington Andrade
 
 
