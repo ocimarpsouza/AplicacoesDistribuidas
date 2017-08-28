@@ -1,7 +1,7 @@
 # AplicacoesDistribuidas
 Aplicações Distribuidas Exercícios
 
-#integrantes do grupo:
+# Integrantes do grupo:
 
 # Ocimar Pereira de Souza
 #
